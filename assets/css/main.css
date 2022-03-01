@@ -3567,7 +3567,6 @@ input, select, textarea {
 		height: 100vh;
 		min-height: 35em;
 		overflow: hidden;
-		position: relative;
 		text-align: center;
 	}
 
